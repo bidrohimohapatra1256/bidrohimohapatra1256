@@ -1,4 +1,4 @@
-
+ I’m a frontend developer and I have a passion for building creative projects by using CSS and JS libraries.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bidrohi-mohapatra-04808023a/) 
 
