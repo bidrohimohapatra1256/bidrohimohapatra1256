@@ -1,4 +1,4 @@
-![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a732c72656163742c7461696c77696e642c626f6f7473747261702c6769742c6769746875622c6669676d612c6d642c7673636f64652c636f646570656e2c6e65746c696679](https://github.com/bidrohimohapatra1256/bidrohimohapatra1256/assets/118372536/eb96e4e1-39dc-4c15-b7a7-f05c3c1c640a) I’m a frontend developer and I have a passion for building creative projects by using CSS and JS libraries.
+(https://github.com/bidrohimohapatra1256/bidrohimohapatra1256/assets/118372536/eb96e4e1-39dc-4c15-b7a7-f05c3c1c640a) I’m a frontend developer and I have a passion for building creative projects by using CSS and JS libraries.
  ![Uploadin
   <svg width="723" height="48" viewBox="0 0 3856 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
     
