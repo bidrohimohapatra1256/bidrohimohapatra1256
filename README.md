@@ -1,7 +1,10 @@
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c4d634238586f7370475a4f3855517138372f67697068792e676966](https://github.com/bidrohimohapatra1256/bidrohimohapatra1256/assets/118372536/d0f3470b-87ce-4cff-8be2-6ac2482c8b59)
  
- I’m a frontend developer and I have a passion for building creative projects by using CSS and JS libraries.
+👩‍💻 I’m a frontend developer and I have a passion for building creative projects by using CSS and JS libraries.
+🌟Continuously learn and expand my knowledge to stay ahead of the curve in front-end technologies
+Are looking to connect with a passionate and motivated developer.
+I'm excited to share my skills and contribute to your success!
  
 
 ## 🌐 Socials:
